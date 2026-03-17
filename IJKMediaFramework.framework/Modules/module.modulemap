@@ -1,6 +1,3 @@
-framework module IJKMediaFramework {
-  umbrella header "IJKMediaFramework.h"
-
-  export *
-  module * { export * }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:723c94d7c56fcbcea1ff10c64e6ef019d0702a059f0b56bdc067ca16edbebcb5
+size 115
