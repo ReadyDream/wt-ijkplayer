@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "wt-ijkplayer"
-  spec.version      = "0.1.1"
+  spec.version      = "0.1.2"
   spec.summary      = "A custom wrapper of ijkplayer for video playback."
   spec.description  = <<-DESC
                     这是一个基于 ijkplayer 的封装库，提供视频播放功能。
