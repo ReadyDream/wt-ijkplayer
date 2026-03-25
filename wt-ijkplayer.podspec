@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
                     DESC
   spec.homepage     = "https://github.com/ReadyDream/wt-ijkplayer"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
-  spec.author       = { "王晶晶" => "969615978@qq.com" }
+  spec.author       = { "wjj" => "969615978@qq.com" }
   spec.source       = { :git => "https://github.com/ReadyDream/wt-ijkplayer.git", :tag => "#{spec.version}" }
   spec.ios.deployment_target = '12.0'
   spec.vendored_frameworks = "IJKMediaFramework.framework"
